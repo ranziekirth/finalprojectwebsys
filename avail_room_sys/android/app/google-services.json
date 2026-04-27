@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "796034954373",
+    "project_id": "roomavailsys-9e5b4",
+    "storage_bucket": "roomavailsys-9e5b4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796034954373:android:86382762fe3a3babb965ec",
+        "android_client_info": {
+          "package_name": "com.company.roomavail"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4k-r1zhZEAp6krZMw9bjDSRCPruWDqi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796034954373:android:069601d5b7cc428db965ec",
+        "android_client_info": {
+          "package_name": "com.example.avail_room_sys"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4k-r1zhZEAp6krZMw9bjDSRCPruWDqi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
