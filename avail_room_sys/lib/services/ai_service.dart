@@ -18,7 +18,7 @@ class AIService {
   AIService._internal();
 
   // TODO: Replace with your actual Google Cloud API key
-  static const String _apiKey = '';
+  static const String _apiKey = 'your_api_key';
   static const String _projectId = 'YOUR_GCP_PROJECT_ID';
   static const String _location = 'us-central1';
 
